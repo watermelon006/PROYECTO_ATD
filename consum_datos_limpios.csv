@@ -1,0 +1,619 @@
+categoria,ID producto,producto,precio
+Aceites,4961,"aceite de oliva 0,4º botella",5.45
+Aceites,7517,aceite de oliva intenso,5.95
+Aceites,8258,aceite oliva virgen extra botella,7.79
+Aceites,9534,aceite de oliva virgen extra,8.45
+Aceites,10219,aceite de oliva virgen extra gran selección,9.27
+Aceites,10343,aceite de oliva intenso sumun,4.79
+Aceites,11034,aceite de oliva virgen botella,4.28
+Aceites,11035,aceite de oliva virgen botella,5.38
+Aceites,11036,aceite de oliva virgen extra cristal,7.93
+Aceites,11369,aceite oliva virgen extra botella,4.95
+Aceites,13342,aceite de oliva virgen botella,4.45
+Aceites,14186,aceite oliva virgen extra primera cosecha,10.5
+Aceites,14480,aceite de oliva virgen extra,4.85
+Aceites,15301,aceite de oliva virgen extra,15.88
+Aceites,15627,aceite de girasol botella,1.75
+Aceites,15691,aceite de oliva suave,4.1
+Aceites,15767,aceite de girasol botella,1.69
+Aceites,15820,aceite de oliva intenso,4.35
+Aceites,15939,aceite de oliva virgen,5.95
+Aceites,17032,aceite de orujo botella,3.39
+Aceites,17164,aceite de girasol alto oleico,2.25
+Aceites,18706,aceite de oliva virgen extra ecológico,9.5
+Aceites,20591,aceite de aguacate cristal,9.4
+Aceites,26073,aceite de girasol botella,2.95
+Aceites,28786,aceite de oliva virgen extra igp jaén,10.7
+Aceites,29403,aceite de oliva virgen extra arbequina,9.7
+Aceites,29933,aceite de oliva virgen extra hojiblanca,6.99
+Aceites,29995,aceite de coco virgen extra ecológico,15.11
+Aceites,31031,aceite de oliva virgen extra,6.32
+Aceites,31853,aceite de oliva virgen extra cristal,9.4
+Aceites,31955,aceite de oliva virgen extra,7.3
+Aceites,32032,aceite de oliva virgen extra cristal,11.6
+Aceites,32033,aceite de oliva virgen extra,6.45
+Aceites,32301,aceite de oliva intenso,4.23
+Aceites,32302,aceite de oliva suave,4.03
+Aceites,32657,aceite oliva virgen extra ecológico,8.9
+Aceites,33558,aceite de oliva sin filtrar,10.36
+Aceites,39753,aceite de oliva extra suave,5.95
+Aceites,39808,"aceitera aceite de oliva 0,4º",8.67
+Aceites,39809,aceite de girasol fritos,2.8
+Aceites,39870,aceitera aceite oliva virgen extra,8.67
+Aceites,44022,aceite oliva virgen extra guindilla. esencia vidri,13.56
+Aceites,44172,aceite de oliva virgen extra,5.99
+Aceites,44332,aceite de oliva d.o.p.priego de córdoba,5.95
+Aceites,44858,aceite oliva virgen extra nueva cosecha 2025/26,4.79
+Aceites,45055,aceite oliva virgen extra verde,11.7
+Aceites,45193,aceite oliva virgen extra variedad picual,9.7
+Aguas,4743,agua mineral natural. botella,0.49
+Aguas,4759,agua mineral natural. botella,0.5
+Aguas,4859,agua mineral natural. botella,0.5
+Aguas,4948,agua mineral con gas botella vidrio,1.49
+Aguas,5204,agua mineral natural tapón rosca,1.34
+Aguas,5205,agua mineral natural,1.64
+Aguas,5248,agua mineral natural tapón sport,1.58
+Aguas,5249,agua mineral natural garrafa,0.36
+Aguas,5250,agua mineral natural botella,0.41
+Aguas,5486,agua mineral natural botella,0.69
+Aguas,5771,agua mineral natural tapón sport,0.79
+Aguas,5772,agua mineral natural. tapón rosca,0.48
+Aguas,5885,agua mineral natural. botella,0.17
+Aguas,6115,agua mineral natural garrafa,0.13
+Aguas,6116,agua mineral  natural garrafa,0.12
+Aguas,6156,agua mineral natural. botella,0.45
+Aguas,6305,agua mineral natural garrafa,0.38
+Aguas,6408,agua mineral natural tapón rosca,1.6
+Aguas,6414,agua mineral natural botella,0.64
+Aguas,6715,agua mineral con gas botella,0.29
+Aguas,6716,agua mineral con gas botella,0.58
+Aguas,6741,agua mineral natural tapón sport,1.67
+Aguas,6944,agua mineral natural botella,0.6
+Aguas,8302,refresco agua aromatiza limón botella,0.77
+Aguas,9275,agua mineral natural garrafa,0.45
+Aguas,9277,agua mineral  con gas botella pet,1.39
+Aguas,9315,agua mineral con gas botella,1.14
+Aguas,9331,agua con gas lata,3.24
+Aguas,9386,agua mineral con gas botella pet,2.14
+Aguas,9410,agua con gas pet,1.49
+Aguas,9478,agua mineral  con gas botella,1.68
+Aguas,9941,agua mineral con gas botella pet,1.49
+Aguas,10565,agua mineral con gas pack de 6 vidrio,3.27
+Aguas,14651,agua mineral natural botella,1.3
+Aguas,16952,agua con gas botella,2.5
+Aguas,17597,agua mineral natural botella,0.79
+Aguas,18134,agua mineral natural botella,0.4
+Aguas,18469,refresco agua con gas limón botella,1.63
+Aguas,20752,agua mineral natural botella,1.25
+Aguas,21092,refresco agua con gas limón botella,2.16
+Aguas,21307,agua mineral natural tapón sport,0.97
+Aguas,21404,refresco agua con gas naranja botella,1.63
+Aguas,25653,agua mineral natural botella,0.69
+Aguas,27038,agua mineral natural botella,1.49
+Aguas,30731,agua mineral natural bag in box,0.5
+Aguas,31045,agua natural mineralización muy débil,0.26
+Aguas,31090,agua natural mineralización muy débil,0.58
+Aguas,31367,agua mineral con gas botella pet,2.12
+Aguas,31387,agua mineral natural pet,1.2
+Aguas,33623,agua mineral natural garrafa,0.22
+Aguas,43716,agua con zumo de limón pet,1.56
+Carnicería,4729,pechuga de pollo,6.95
+Carnicería,4785,pollo limpio,3.5
+Carnicería,4789,muslitos de pollo,4.19
+Carnicería,4791,contramuslos sin piel,4.49
+Carnicería,4795,carcasas de pollo,1.55
+Carnicería,4852,cuarto trasero de pollo,3.49
+Carnicería,5107,filetes pechuga de pollo,8
+Carnicería,5164,pelota de cocido,8.29
+Carnicería,5165,preparado picada de vacuno,10.98
+Carnicería,5166,preparado picada mixta,8.63
+Carnicería,5167,longaniza tipo requena,11.49
+Carnicería,5169,preparado para cocido,8.69
+Carnicería,5197,filete primera a de añojo plancha,20.9
+Carnicería,5221,longaniza extra,6.59
+Carnicería,5222,burger mixta 4 unidades,9.03
+Carnicería,5236,brocheta de pollo,9.03
+Carnicería,5272,burger americana 2 unidades,14.3
+Carnicería,5277,morcilla de burgos,5.96
+Carnicería,5284,solomillo de cerdo,8.49
+Carnicería,5285,filete lomo de cerdo,7.19
+Carnicería,5287,chuleta lomo de cerdo,6.45
+Carnicería,5289,costilla de cerdo,7.99
+Carnicería,5290,filetes panceta de cerdo,5.99
+Carnicería,5291,estofado de cerdo,5.75
+Carnicería,5292,pata de cerdo,6.99
+Carnicería,5305,preparado arroz al horno,7.9
+Carnicería,5323,carrillada de cerdo,13.5
+Carnicería,5337,chuletas palo/riñonada,31
+Carnicería,5343,gallina para caldo,5.75
+Carnicería,5346,alas de pollo,4.7
+Carnicería,5347,pollo troceado,4.09
+Carnicería,5348,espinazo de cerdo,5.69
+Carnicería,5366,pechuga de pavo fileteada,8.99
+Carnicería,5373,contramuslos de pollo deshuesados,7.39
+Carnicería,5435,chuleta de aguja,5.99
+Carnicería,5550,carpaccio marinado,38.64
+Carnicería,6109,burger de vacuno 4 unidades,11.08
+Carnicería,6119,longaniza blanca sin tripa,6.04
+Carnicería,6232,solomillo de pollo .,8.39
+Carnicería,6233,alas partidas de pollo,5.49
+Carnicería,6557,preparado picada mixta boloñesa,11.4
+Carnicería,7022,arreglo para paella de pollo y conejo,7.25
+Carnicería,7130,burger angus 2 unidades,18.75
+Carnicería,7569,mini brocheta grill,12.46
+Carnicería,7609,tortitas pizza,10.33
+Carnicería,7610,hamburguesa pollo y espinacas,11.15
+Carnicería,7706,pechuga de pavo adobado,12.87
+Carnicería,7779,preparado picada pollo,9.23
+Carnicería,7782,san jacobo,10
+Carnicería,7809,burger meat pollo 4 unidades,7.64
+Carnicería,7851,pechuga de pavo adobada ajillo,9.79
+Carnicería,7969,chuletas de pavo adobadas al ajillo,8.29
+Carnicería,7998,albóndiga mixta,8.67
+Carnicería,8150,burger entrecot aguja 2 unidades,18.29
+Carnicería,8265,cabeza lomo de cerdo,6.7
+Carnicería,8271,medio conejo troceado,9.85
+Carnicería,9016,magro adobado,9.65
+Carnicería,9141,preparado picada mixta,11.8
+Carnicería,9218,embutido mixto,8.69
+Carnicería,9640,lomo extra adobado,7.2
+Carnicería,10106,mini brocheta curry,12.46
+Carnicería,11987,escalopín de lomo tierno,9.57
+Carnicería,12337,huesos blancos salados,5.39
+Carnicería,12344,chorizo tipo pueblo,7.99
+Carnicería,12345,barbacoa mini,8.49
+Carnicería,12346,botifarrón de carne,8.29
+Carnicería,12347,morcilla de cebolla oreada,7.29
+Carnicería,12348,panceta ibérica,7.39
+Carnicería,12351,blanco,7.49
+Carnicería,12355,hígado de cordero,13
+Carnicería,12363,blanco y rojo,9.49
+Carnicería,12368,pata de vacuno,10.5
+Carnicería,12372,chuletas de paletilla,24.95
+Carnicería,12374,garreta / brazuelo,16.95
+Carnicería,12375,chuletas de pierna,19.95
+Carnicería,12376,paletillas de conejo,19.95
+Carnicería,12378,entrecot de novillo argentino,43.5
+Carnicería,12420,secreto de cerdo,6.99
+Carnicería,12533,lomos de conejo,14
+Carnicería,12572,estofado de pavo,7.99
+Carnicería,12582,pechuga de pavo adobada pimentón,9.79
+Carnicería,12583,lomo extra ajillo,7.99
+Carnicería,12671,solomillo al romero,11.5
+Carnicería,12675,churrasquitos,16.95
+Carnicería,12698,muslo de pollo deshuesado,5.9
+Carnicería,12699,cuarto trasero pollo certificado,4.99
+Carnicería,12700,pechuga fileteada pollo certificado,9.99
+Carnicería,15306,lomo adobado horno artesano,9.3
+Carnicería,15551,rabo de cerdo cocido,8.38
+Carnicería,15752,alas partidas pollo certificado,6.99
+Carnicería,16066,burger de pollo certificado,11.88
+Carnicería,16185,cuarto trasero pollo familiar,3.2
+Carnicería,16987,torreznos de soria,17.5
+Carnicería,17666,bolitas de carne cerdo y ternera,12.67
+Carnicería,17747,brochetas de pollo al pimentón,10.47
+Carnicería,18013,costilla de cerdo al ajillo,10.99
+Carnicería,18014,costilla de cerdo adobada,10.99
+Carnicería,18109,filetes redondo añojo plancha-empanar,21.5
+Carnicería,18110,filete 1ª de añojo plancha- freír,19.95
+Carnicería,18170,filete extrafino pechuga de pollo,9.29
+Carnicería,18205,oreja cerdo cocida y troceada,8.51
+Carnicería,18995,burger ternera gallega,18.13
+Carnicería,19564,mini burgers mixta,11.07
+Carnicería,19565,longaniza de pollo,7.79
+Carnicería,20004,lomo empanado,8.99
+Carnicería,20349,hamburguesa de ternera ecológica,20.21
+Carnicería,21113,longaniza pascuera,11.59
+Carnicería,21278,hueso de vacuno,7.95
+Carnicería,21344,muslitos pollo certificado,5.75
+Carnicería,21537,patas de pollo limpias,4.6
+Carnicería,23114,codorniz 2 unidades,14.5
+Carnicería,23284,taquitos adobados,8.75
+Carnicería,23530,escalopín lomo adob. extratierno,9.57
+Carnicería,24379,burger ibérica,12.46
+Carnicería,24733,chuleta sajonia,10.6
+Carnicería,26778,higaditos de pollo,5.17
+Carnicería,26779,mollejas de pollo,5.33
+Carnicería,27646,chuleta vaca madurada,32.4
+Carnicería,27647,solomillo vaca madurada,47.95
+Carnicería,28654,albóndigas de pollo,9.11
+Carnicería,28676,burger con secreto de cerdo,12.46
+Carnicería,29433,costillitas de conejo,9.2
+Carnicería,29600,chuleta de pavo,8.05
+Carnicería,29871,burger crispy chicken,10.21
+Carnicería,29919,pechuga pollo marinada al ajillo,8.55
+Carnicería,30682,nuggets de pollo,9.76
+Carnicería,30718,alitas brooklyn barbacoa,5.69
+Carnicería,31462,extratierno de pechuga pollo,9.99
+Carnicería,31757,choricitos picantes,9.39
+Carnicería,31781,estofado de añojo,18.65
+Carnicería,31998,filete pechuga de pollo empanado,8.69
+Carnicería,32000,alas crunchy chicken picantes,7.15
+Carnicería,32256,burger pollo y verduras,11.04
+Carnicería,32454,burger de pollo y queso,11.06
+Carnicería,32543,tortitas pollo asado con queso fundido,10.33
+Carnicería,32553,solomillo de añojo,48.7
+Carnicería,32795,compango asturiano,11.8
+Carnicería,32796,chorizo extra asturiano,11.96
+Carnicería,32936,burger angus m.vergara 2 unidades,18.72
+Carnicería,33546,dipper de pollo y queso,11.16
+Carnicería,34070,longaniza criolla,8.99
+Carnicería,34418,burger meat pollo y pavo,11.46
+Carnicería,34502,smash burger meat vacuno,13.41
+Carnicería,34731,pincho pechuga pollo teriyaki,12.79
+Carnicería,34934,morro de cerdo cocido y troceado,7.98
+Carnicería,35289,taquito de cerdo estilo andaluz,9.99
+Carnicería,35901,filetes de lomo extrafinos,7.39
+Carnicería,39507,filetes pechuga de pavo extra tiernos,9.69
+Carnicería,39743,picada de cerdo,6.03
+Carnicería,43810,librito lomo de cerdo con bacon y queso,12.15
+Carnicería,43869,flamenquines de pavo y queso,13.69
+Carnicería,43991,pops de pollo extracrujientes,13.71
+Carnicería,44026,lomo de añojo,27.35
+Carnicería,44044,solomillo de pollo crujiente,9.55
+Carnicería,45076,solomillo de pavo,9
+Carnicería,45109,pelotas de cocido 4 unidades,8.29
+Carnicería,45110,mini pelotas de cocido 30 unidades,8.29
+Carnicería,8539,pechugas de  pollo,7.25
+Carnicería,8550,cuarto trasero de pollo,3.7
+Carnicería,8551,pollo limpio,3.5
+Carnicería,13357,choricitos,9.55
+Carnicería,13358,solomillo de cerdo,8.69
+Carnicería,13375,alas de pollo,4.7
+Carnicería,13387,longaniza tipo requena,11.49
+Carnicería,13389,chorizo tipo de pueblo,8.19
+Carnicería,13390,morcilla de cebolla oreada,7.49
+Carnicería,13405,conejo,9.25
+Carnicería,13453,pollo certificado,5
+Carnicería,13499,burger meat entrecot de aguja,18.25
+Carnicería,13511,costilla de añojo,17.6
+Carnicería,15433,longaniza extra,7.39
+Carnicería,17787,costilla de cerdo,8.49
+Carnicería,17979,blancos granel,7.49
+Carnicería,19273,huesos de  añojo,6.95
+Carnicería,19276,pelota cocido,8.29
+Carnicería,19278,cuarto trasero pollo certificado,5
+Carnicería,19281,higaditos de conejo,10.85
+Carnicería,19614,entrecot de novillo argentino,43.5
+Carnicería,19615,filete solomillo de añojo,47.5
+Carnicería,19616,cabeza de lomo sin hueso,6.99
+Carnicería,19617,chuleta aguja de cerdo,6.54
+Carnicería,19618,chuleta de lomo cerdo,6.74
+Carnicería,19619,panceta de cerdo,5.99
+Carnicería,19620,filete lomo de cerdo,7.19
+Carnicería,19621,añojo para guisar,18.65
+Carnicería,19622,lomo entrecot de ternera gallega,35.8
+Carnicería,19623,babilla añojo,21.95
+Carnicería,19624,filete solomillo de ternera gallega,57.5
+Carnicería,21443,caretas de cerdo,6.99
+Carnicería,21444,rabos de cerdo,6.49
+Carnicería,21445,papada de cerdo,6.79
+Carnicería,21446,patas de cerdo,7.1
+Carnicería,21447,tocino blanco de cerdo,6.59
+Carnicería,21457,espinazo de cerdo,5.69
+Carnicería,21458,magro de jamón,6.49
+Carnicería,21459,estofado de cerdo,6.19
+Carnicería,21463,gallina,5.75
+Carnicería,21478,ternera gallega de guisar,19.9
+Carnicería,21495,longaniza pascuera,11.59
+Carnicería,24729,burger meat pollo,9.92
+Carnicería,25994,croqueta de cocido,11.04
+Carnicería,26747,burger meat angus,19.15
+Carnicería,26947,triángulo pavo y queso empanado,1.92
+Carnicería,27170,solomillos empanados,9.89
+Carnicería,28120,burger meat de pollo con calabacín y queso,11.12
+Carnicería,29736,croqueta de la abuela pollo y jamón,11.04
+Carnicería,32018,paletilla de cordero,24.95
+Carnicería,32019,chuletillas de cordero,31
+Carnicería,32020,chuletas de pierna,19.95
+Carnicería,32021,chuletas de paletilla,24.95
+Carnicería,32060,filete extra añojo,23.95
+Carnicería,32066,cordero al tajo cuartos,22.7
+Carnicería,32202,ossobuco de añojo,16.6
+Carnicería,32203,filete muy tierno de ternera gallega,28
+Carnicería,32204,filete tierno de ternera gallega,26.2
+Carnicería,33786,burger meat pollo y zanahoria,11.12
+Carnicería,33787,burger meat vacuno cebolla caramelizada,14.33
+Carnicería,33788,librito de pollo relleno york queso,13.78
+Carnicería,33819,burger de pollo 2 quesos,12.42
+Carnicería,34462,tira de costilla de cerdo,8.99
+Carnicería,39757,carrillada interna de cerdo,11.49
+Carnicería,43806,croqueta ibérica,13.8
+Carnicería,44071,chistorra,9.29
+Carnicería,44706,burger de pollo y espárragos verdes,12.42
+Carnicería,44988,burger meat vacuno,12.08
+Frutas y verduras,4667,rabanito bolsa,4.56
+Frutas y verduras,4671,tomate canario,1.99
+Frutas y verduras,4673,pimiento verde,2.79
+Frutas y verduras,4674,judía redonda bandeja,7
+Frutas y verduras,4698,pepino,2.25
+Frutas y verduras,4701,pimiento tipo padrón bandeja,5.95
+Frutas y verduras,4702,patata conservación selección granel,1.9
+Frutas y verduras,4703,tomate ensalada,2.15
+Frutas y verduras,4705,tomate pera,1.99
+Frutas y verduras,4708,pimiento rojo,2.99
+Frutas y verduras,4710,lechuga iceberg peso aproximado 350 gr.,3
+Frutas y verduras,4711,lechuga romana peso aprox. 325 g.,3.44
+Frutas y verduras,4713,cebolla seca malla 1 kg,1.59
+Frutas y verduras,4718,coles de bruselas bandeja,4.8
+Frutas y verduras,4721,cebolla tierna manojo peso aproximado 300 gr,5.67
+Frutas y verduras,4749,cebolla seca malla,1.48
+Frutas y verduras,4754,boniato rojo,2.35
+Frutas y verduras,5191,cebolla seca malla tubo,1.7
+Frutas y verduras,5193,tomate en rama,2.4
+Frutas y verduras,5234,cogollos 3 unidades peso aprox. 330  gr.,3.61
+Frutas y verduras,5251,ajos secos malla,7.4
+Frutas y verduras,5252,brócoli manojo,2.6
+Frutas y verduras,5319,apio verde manojo peso aproximado 600 gr,2.33
+Frutas y verduras,5320,zanahoria tierna bolsa,1.6
+Frutas y verduras,5321,zanahoria de mesa bolsa,1.15
+Frutas y verduras,5354,berenjena negra,2.5
+Frutas y verduras,5355,calabacín verde,2.99
+Frutas y verduras,5398,cilantro bandeja,6.25
+Frutas y verduras,5612,judía plana bandeja,7.96
+Frutas y verduras,5700,espinacas bolsa,4.33
+Frutas y verduras,5701,acelgas bolsa,4.5
+Frutas y verduras,5703,lechuga iceberg bolsa,3.8
+Frutas y verduras,5704,canónigos bolsa,9.6
+Frutas y verduras,5705,ensalada 4 estaciones bolsa,3.4
+Frutas y verduras,5815,apio verde cortado bandeja,4.5
+Frutas y verduras,5919,perejil bolsa,7.67
+Frutas y verduras,6093,brócoli para cocinar microondas,9.11
+Frutas y verduras,6122,remolacha cocida y pelada,2.08
+Frutas y verduras,6130,cebolla dulce,2.89
+Frutas y verduras,6160,alcachofa granel,3.89
+Frutas y verduras,6165,patata freír conservación,1.9
+Frutas y verduras,6166,patata cocer conservación,1.8
+Frutas y verduras,6176,pimiento italiano,2.75
+Frutas y verduras,6177,verduras para cocido bolsa,2.15
+Frutas y verduras,6334,dúo canónigo rúcula bolsa,19.9
+Frutas y verduras,6405,tomate raf asurcado,3.99
+Frutas y verduras,6436,tomate negro cesta,2.6
+Frutas y verduras,6541,patatas al vapor microondas,3.78
+Frutas y verduras,6822,berenjena rayada,2.5
+Frutas y verduras,6823,tomate tipo valenciano,3.99
+Frutas y verduras,6950,coliflor-brócoli-zanahoria microondas,7.45
+Frutas y verduras,6978,albahaca bandeja,7.5
+Frutas y verduras,7427,seta shiitake bandeja,13.93
+Frutas y verduras,7450,rúcula bolsa,17
+Frutas y verduras,7535,ensalada pasta y rúcula completa,10.62
+Frutas y verduras,7784,calabaza troceada bandeja,5.25
+Frutas y verduras,8374,calabaza para asar entera,2.29
+Frutas y verduras,8408,ensalada césar completa,15.67
+Frutas y verduras,8721,corazones lechuga 6 u peso aproximado 250 gr,7.96
+Frutas y verduras,8739,cebolla tierna pequeña bandeja,8.63
+Frutas y verduras,8753,ensalada maxi variada bolsa,5.69
+Frutas y verduras,8837,tomate cherry pera negro,7.16
+Frutas y verduras,8885,cebolla dulce malla,3.58
+Frutas y verduras,8888,pepino holandes peso aproximado 300 gr,3.3
+Frutas y verduras,8953,lechuga romana bolsa,5.75
+Frutas y verduras,9087,surtido verduras microondas,6.83
+Frutas y verduras,9367,tomate cherry cubeta,4
+Frutas y verduras,9750,ensalada gourmet bolsa,6.29
+Frutas y verduras,9855,patata lavada malla conservación,1.55
+Frutas y verduras,9893,ensalada campestre bolsa,7.94
+Frutas y verduras,9902,ensalada mixta bolsa,11
+Frutas y verduras,9961,ensalada gourmet primeros brotes,19.9
+Frutas y verduras,10194,patata lavada malla conservación,1.23
+Frutas y verduras,12317,patata guarnición conservación,2.55
+Frutas y verduras,12318,repollo liso entero,1.8
+Frutas y verduras,12371,cebolla morada malla,2.8
+Frutas y verduras,12377,hierbabuena bandeja,6.25
+Frutas y verduras,12407,pimiento tricolor,3.98
+Frutas y verduras,12449,guacamole,9
+Frutas y verduras,12490,patata cocida pelada bolsa,4.58
+Frutas y verduras,12501,judía rochet bandeja,12.76
+Frutas y verduras,12504,ensalada antiox bolsa,18.9
+Frutas y verduras,12542,ensalada de la huerta bandeja,5.45
+Frutas y verduras,12608,brotes de espinacas bolsa,14.32
+Frutas y verduras,12722,col lombarda,1.99
+Frutas y verduras,12727,apio blanco bolsa,4.98
+Frutas y verduras,12729,calabaza entera,1.99
+Frutas y verduras,12786,garrofón seco malla,10.54
+Frutas y verduras,12799,brotes de judia mungo bolsa,9.95
+Frutas y verduras,12801,pimiento ñora tarrina,64.83
+Frutas y verduras,12807,cebollino bandeja,9
+Frutas y verduras,12840,picada de ajo y perejil bandeja,14.9
+Frutas y verduras,12971,panoja de maíz fresca bandeja,8.98
+Frutas y verduras,12972,pimiento picante bandeja,16.9
+Frutas y verduras,12992,guacamole picante tarrina,9.45
+Frutas y verduras,13017,lechuga trocadero peso aproximado 300 gr,6.3
+Frutas y verduras,13033,escarola frisee bandeja,6.17
+Frutas y verduras,13095,lechuga hoja de roble peso aproximado 250 gr,6.36
+Frutas y verduras,13105,champiñón granel,5.79
+Frutas y verduras,13163,cebolla francesa malla,2.98
+Frutas y verduras,13171,cebolla blanca malla,3.18
+Frutas y verduras,13267,tomate cherry sugar drop,9.4
+Frutas y verduras,13335,zanahoria baby,11.12
+Frutas y verduras,13591,cardo bandeja,3.95
+Frutas y verduras,13696,col rizada,1.99
+Frutas y verduras,14032,zanahoria manojo,2.7
+Frutas y verduras,14337,tomate raf selección,6.99
+Frutas y verduras,14379,alcachofas de benicarló,6.4
+Frutas y verduras,14438,champiñón portobello bandeja,7.2
+Frutas y verduras,14471,floretas brócoli bandeja,4.98
+Frutas y verduras,14489,ajo ecológico,12.45
+Frutas y verduras,14490,remolacha bio al vapor,3.18
+Frutas y verduras,14499,patata eco malla,1.99
+Frutas y verduras,14506,remolacha manojo,3.98
+Frutas y verduras,15401,zanahoria rallada bolsa,7.93
+Frutas y verduras,15617,ensalada gourmet completa,19.14
+Frutas y verduras,15763,judía plana,4.85
+Frutas y verduras,16339,col rizada partida,2.15
+Frutas y verduras,16342,repollo liso partido,2
+Frutas y verduras,16343,calabaza partida,2.24
+Frutas y verduras,17363,patata gallega cachelo malla,1.98
+Frutas y verduras,17364,floretas coliflor bandeja,3.98
+Frutas y verduras,17657,tomate cherry rama ecológico,7.96
+Frutas y verduras,17785,ensalada césar light completa,14.89
+Frutas y verduras,17786,espárrago grueso,12.67
+Frutas y verduras,17823,espinaca maxi bolsa,5.76
+Frutas y verduras,17826,judía ferraura,15.95
+Frutas y verduras,18705,ensalada completa queso de cabra,23.1
+Frutas y verduras,19374,brócoli microondas,7.56
+Frutas y verduras,19948,corazones romana 2ud peso aproximado 650 gr.,2.69
+Frutas y verduras,20422,chirivia granel,3.39
+Frutas y verduras,20423,nabo granel,3.39
+Frutas y verduras,20934,patata roja conservación,2
+Frutas y verduras,20943,boniato micro,6.48
+Frutas y verduras,21698,ensalada césar american style,17.25
+Frutas y verduras,22814,nabicol granel,3.1
+Frutas y verduras,23303,ensalada completa de pasta y pollo,9.65
+Frutas y verduras,23850,coliflor granel,2.05
+Frutas y verduras,25369,guacamole eco,9.95
+Frutas y verduras,26253,puerro granel,3.29
+Frutas y verduras,26963,judía plana bandeja,3.93
+Frutas y verduras,27322,champiñón entero  bandeja,5.14
+Frutas y verduras,27927,combinado setas bandeja,14.95
+Frutas y verduras,28348,ajos tierno manojo,13
+Frutas y verduras,28488,escarola bolsa,8.33
+Frutas y verduras,28677,calçots manojo,0.2
+Frutas y verduras,28688,maíz dulce bandeja,3.53
+Frutas y verduras,28988,ensalada wraps completa,10.88
+Frutas y verduras,29241,ensalada del chef completa,14.39
+Frutas y verduras,29745,espárrago triguero,10.6
+Frutas y verduras,30540,boniato al vapor,6.63
+Frutas y verduras,30546,saltear y listo,14.95
+Frutas y verduras,30852,endibia bandeja,4.22
+Frutas y verduras,31240,champiñón laminado peso variable,6.6
+Frutas y verduras,32435,tomate para untar bandeja,5.98
+Frutas y verduras,32491,mix de brotes con espinaca y rúcula,12
+Frutas y verduras,32702,tomate negro pera,2.69
+Frutas y verduras,32769,mix brotes canónigos bolsa,15.9
+Frutas y verduras,33229,ensalada xtreme pollo completa,19
+Frutas y verduras,33230,ensalada gourmet mediterránea,13.67
+Frutas y verduras,33231,ensalada proteica pollo y huevo,15.42
+Frutas y verduras,33789,puerro limpio bandeja,4.8
+Frutas y verduras,34436,guacamole con queso de cabra,15.92
+Frutas y verduras,34437,guisamole,9.45
+Frutas y verduras,34615,palitos de zanahoria tarrina,12.67
+Frutas y verduras,34743,palitos de apio,5.45
+Frutas y verduras,35097,setas de cultivo bandeja,8.21
+Frutas y verduras,35313,tomate ensalada tradicional bandeja,2.69
+Frutas y verduras,39851,ajo negro dientes pelado,56.13
+Frutas y verduras,43321,ensalada japón completa,15.96
+Frutas y verduras,43665,ensalada langostinos surimi y piña,25.74
+Frutas y verduras,43987,ensalada pan bao completa,15.06
+Frutas y verduras,44222,ensalada salmón queso cabra y mango,24.94
+Frutas y verduras,44337,tomate pera cesta,2.19
+Frutas y verduras,44511,mini pepino midi,4.26
+Frutas y verduras,45048,cebolla echalote,6.36
+Frutas y verduras,45168,mix micro verduras con espinaca,9.42
+Frutas y verduras,45169,mix micro verduras con calabacín,8.63
+Frutas y verduras,45219,"barqueta micro brocoli, bacon y queso",15.61
+Frutas y verduras,4672,manzana fuji,2.39
+Frutas y verduras,4675,pomelo rojo,1.95
+Frutas y verduras,4677,manzana golden,2.19
+Frutas y verduras,4678,manzana red  delicious,2.25
+Frutas y verduras,4683,pera conferencia,2.45
+Frutas y verduras,4687,plátano canario igp,2.1
+Frutas y verduras,4692,melón piel de sapo entero,1.99
+Frutas y verduras,4697,aguacate  premadurado,5.2
+Frutas y verduras,4700,mango,2.9
+Frutas y verduras,4811,fresón bandeja,9.75
+Frutas y verduras,4898,limón,2.5
+Frutas y verduras,5081,mandarina granel,2.49
+Frutas y verduras,5228,manzana royal gala,2.1
+Frutas y verduras,5229,kiwi,3.69
+Frutas y verduras,5233,limón malla,2.2
+Frutas y verduras,6149,moras tarrina,18.8
+Frutas y verduras,6791,lima bandeja,6.36
+Frutas y verduras,6904,naranja malla,1.45
+Frutas y verduras,7901,piña entera,1.99
+Frutas y verduras,8264,manzana granny smith,2.39
+Frutas y verduras,8364,melón piel de sapo partido,2.24
+Frutas y verduras,8708,manzana pink lady,3.09
+Frutas y verduras,9038,piña partida,2.34
+Frutas y verduras,9075,naranja para zumo malla,1.04
+Frutas y verduras,9097,kiwi amarillo,6.99
+Frutas y verduras,10034,kiwi green selección bandeja,6.98
+Frutas y verduras,10182,naranja,1.95
+Frutas y verduras,11114,pera ercolini,2.89
+Frutas y verduras,12383,manzana golden marlene bandeja,2.65
+Frutas y verduras,12782,yuca,3.59
+Frutas y verduras,12829,dátil en rama bandeja,7.98
+Frutas y verduras,13414,pera rocha do oeste d.o.p.,2.89
+Frutas y verduras,13630,compota de manzana y pera,8.48
+Frutas y verduras,13631,compota de manzana y piña,8.48
+Frutas y verduras,13632,compota de manzana y mango,8.48
+Frutas y verduras,13647,manzana red marlene bandeja,2.65
+Frutas y verduras,13648,manzana royal gala marlene bandeja,2.65
+Frutas y verduras,13707,compota de manzana,8.48
+Frutas y verduras,13961,naranja bollo granel,2.75
+Frutas y verduras,14494,plátano canario igp bandeja,3.69
+Frutas y verduras,14503,limón ecológico,3.78
+Frutas y verduras,14647,manzana ambrosia peso aproximado 1k,2.89
+Frutas y verduras,14728,papayón entero,4.95
+Frutas y verduras,16341,papayón partido,5.2
+Frutas y verduras,16983,banana,1.55
+Frutas y verduras,18213,piña del monte entera,2.99
+Frutas y verduras,18958,piña del monte partida,3.34
+Frutas y verduras,19726,pera conferencia d.o. rincón de soto,3.99
+Frutas y verduras,19920,uva roja bandeja sin semilla,5.9
+Frutas y verduras,24841,aguacate bandeja,4.9
+Frutas y verduras,26409,arándano vaso,14.89
+Frutas y verduras,33116,mandarina hoja tarrina,3.06
+Frutas y verduras,33196,mandarina malla,1.99
+Frutas y verduras,34592,piña natural a rodajas,6.55
+Frutas y verduras,39467,kiwi verde bandeja,3.84
+Frutas y verduras,45107,arándanos selección,18.6
+Carnes congeladas,12102,yemas de gallina nutrave/pamies,11
+Carnes congeladas,12114,magret de pato,29.65
+Carnes congeladas,14817,hígado de pato,87.04
+Carnes congeladas,19577,paletilla de cordero,16.5
+Carnes congeladas,44458,rabo de vacuno,17.5
+Carnes congeladas,44727,carrillada de vacuno congelada,17.5
+Frutas y verduras y verduras congeladas,4781,habas baby,12.48
+Frutas y verduras y verduras congeladas,5496,patatas prefritas corte grueso,1.85
+Frutas y verduras y verduras congeladas,5730,patatas prefritas corte fino,1.95
+Frutas y verduras y verduras congeladas,7236,ajos tiernos,6.63
+Frutas y verduras y verduras congeladas,7505,alcachofa baby,10
+Frutas y verduras y verduras congeladas,7506,brócoli,2.26
+Frutas y verduras y verduras congeladas,7507,habas finas,3.03
+Frutas y verduras y verduras congeladas,7508,cebolla troceada,2.55
+Frutas y verduras y verduras congeladas,7510,alcachofa troceada,6.63
+Frutas y verduras y verduras congeladas,7512,guisantes finos,1.78
+Frutas y verduras y verduras congeladas,7516,garbanzos,3.05
+Frutas y verduras y verduras congeladas,7538,judías plana troceada,1.5
+Frutas y verduras y verduras congeladas,7539,judía fina troceada,1.6
+Frutas y verduras y verduras congeladas,7540,espinacas cortadas,2.63
+Frutas y verduras y verduras congeladas,7541,ensaladilla,1.36
+Frutas y verduras y verduras congeladas,7542,menestra con espárrago,2.38
+Frutas y verduras y verduras congeladas,7543,garrofón,3.3
+Frutas y verduras y verduras congeladas,7544,menestra de verduras,1.83
+Frutas y verduras y verduras congeladas,7590,verdura para paella,2.33
+Frutas y verduras y verduras congeladas,8257,patatas prefritas golden long,3.76
+Frutas y verduras y verduras congeladas,8489,patatas prefritas corte casero,2.03
+Frutas y verduras y verduras congeladas,8603,hervido,2.44
+Frutas y verduras y verduras congeladas,8828,zanahorias baby,9.83
+Frutas y verduras y verduras congeladas,8995,acelgas hoja miniporción,2.78
+Frutas y verduras y verduras congeladas,9014,verduras gourmet vapor listos en tres minutos,11.4
+Frutas y verduras y verduras congeladas,10319,cardo,9.88
+Frutas y verduras y verduras congeladas,10331,perejil troceado,59.8
+Frutas y verduras y verduras congeladas,10332,maíz superdulce,9.97
+Frutas y verduras y verduras congeladas,10333,coles de bruselas,7.48
+Frutas y verduras y verduras congeladas,10489,espinacas hoja,4.95
+Frutas y verduras y verduras congeladas,13735,judías verdes troceadas,7.23
+Frutas y verduras y verduras congeladas,19263,edamame en grano,6.88
+Frutas y verduras y verduras congeladas,20324,alubia blanca,3.55
+Frutas y verduras y verduras congeladas,20382,frutos del bosque,6.13
+Frutas y verduras y verduras congeladas,20383,arándanos,6.97
+Frutas y verduras y verduras congeladas,20592,corazones alcachofa troceados,16.63
+Frutas y verduras y verduras congeladas,23985,espárrago verde,15.47
+Frutas y verduras y verduras congeladas,24030,ajo picado,13.44
+Frutas y verduras y verduras congeladas,24112,mezcla para sofrito,3.98
+Frutas y verduras y verduras congeladas,26002,patata chef gourmet,7.94
+Frutas y verduras y verduras congeladas,27333,guisantes finos,4.99
+Frutas y verduras y verduras congeladas,27476,ensaladilla,4.99
+Frutas y verduras y verduras congeladas,27716,guisantes superfinos,7.25
+Frutas y verduras y verduras congeladas,29348,patatas bravas,2.47
+Frutas y verduras y verduras congeladas,31951,menestra de la huerta,7.68
+Frutas y verduras y verduras congeladas,32805,castaña nata,16.67
+Frutas y verduras y verduras congeladas,33278,patatas mediterráneas,4.63
+Frutas y verduras y verduras congeladas,33402,patatas horno extra crujiente,2.75
+Frutas y verduras y verduras congeladas,33796,magnum afterdinner classic 8 unidades,23.66
+Frutas y verduras y verduras congeladas,35984,"frambuesas cubiertas choc,blanc y choc,lech",39.9
+Frutas y verduras y verduras congeladas,43265,bon bon salted caramel 12 unidades,24.46
+Frutas y verduras y verduras congeladas,44091,fresa entera,6.33
+Frutas y verduras y verduras congeladas,44092,mango troceado,6.63
+Frutas y verduras y verduras congeladas,44965,fresas chocolate blanco chocolate negro,36.27

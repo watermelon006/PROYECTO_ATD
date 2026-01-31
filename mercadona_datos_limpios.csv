@@ -1,0 +1,475 @@
+Categoria,ID Producto,Producto,Precio
+Aceites,4241,"Aceite de oliva 0,4º Hacendado",3.95
+Aceites,4240,"Aceite de oliva 0,4º Hacendado",4.1
+Aceites,4717,Aceite de oliva virgen extra Hacendado,4.85
+Aceites,4740,Aceite de oliva virgen extra Hacendado,4.95
+Aceites,4706,Aceite de oliva virgen extra Hacendado Gran Selección,7.934
+Aceites,4641,Aceite de oliva 1º Hacendado,4.17
+Aceites,4640,Aceite de oliva 1º Hacendado,4.35
+Aceites,4711,Aceite de oliva virgen Hacendado,4.284
+Aceites,4749,Aceite de oliva virgen Hacendado,4.45
+Aceites,4718,Aceite de oliva virgen extra Hacendado,14
+Aceites,4850,Aceite de oliva virgen extra Picual Casa Juncal,9.9
+Aceites,4041,"Aceite de girasol refinado 0,2º Hacendado",1.69
+Aceites,4040,"Aceite de girasol refinado 0,2º Hacendado",1.75
+Aceites,4193,Aceite de coco virgen Hacendado,12.112
+Aguas,28035,Agua mineral grande Bronchales,0.214
+Aguas,23448,Agua mineral grande Bronchales,0.26
+Aguas,23449,Agua mineral grande Bronchales,0.26
+Aguas,28491,Agua mineral mediana Bronchales,0.5
+Aguas,28499,Agua mineral mediana Bronchales,0.5
+Aguas,27061,Agua mineral pequeña Bronchales,0.58
+Aguas,27054,Agua mineral pequeña Bronchales,0.58
+Aguas,28566,Agua mineral pequeña Bronchales tapón infantil,1.213
+Aguas,28567,Agua mineral pequeña Bronchales tapón infantil,1.213
+Aguas,28060,Agua mineral grande Cortes,0.115
+Aguas,27088,Agua mineral grande Cortes,0.132
+Aguas,28269,Agua mineral grande Cortes,0.167
+Aguas,28270,Agua mineral grande Cortes,0.167
+Aguas,28163,Agua mineral mediana Cortes,0.4
+Aguas,28164,Agua mineral mediana Cortes,0.4
+Aguas,27076,Agua mineral pequeña Cortes,0.48
+Aguas,27078,Agua mineral pequeña Cortes,0.48
+Aguas,28288,Agua mineral pequeña Cortes tapón infantil,0.788
+Aguas,28296,Agua mineral pequeña Cortes tapón infantil,0.788
+Aguas,27314,Agua mineral grande Bezoya,0.5
+Aguas,27230,Agua mineral grande Bezoya,0.5
+Aguas,27099,Agua mineral grande Nestlé Aquarel,0.414
+Aguas,27232,Agua mineral grande Nestlé Aquarel,0.414
+Aguas,27350,Agua mineral grande Font Vella,0.48
+Aguas,27204,Agua mineral grande Font Vella,0.5
+Aguas,27327,Agua mineral grande Solán de Cabras,0.594
+Aguas,27356,Agua mineral grande Solán de Cabras,0.594
+Aguas,27291,Agua mineral grande Lanjarón,0.467
+Aguas,27216,Agua mineral grande Lanjarón,0.487
+Aguas,27213,Agua mineral con gas grande Vichy Catalan,1.55
+Aguas,28185,Agua mineral con gas pequeña Vichy Catalan,3.417
+Aguas,27366,Agua mineral con gas grande Cortes,0.287
+Aguas,27367,Agua mineral con gas grande Cortes,0.287
+Aguas,27368,Agua mineral con gas pequeña Cortes,0.58
+Aguas,27369,Agua mineral con gas pequeña Cortes,0.58
+Aguas,27894,Agua mineral con gas grande San Pellegrino,1.39
+Aguas,27893,Agua mineral con gas grande San Pellegrino,1.39
+Aguas,27203,Agua de soda con sifón La Casa,1.067
+Aguas,27598,Agua mineral con gas grande Fonter,1.14
+Aguas,27597,Agua mineral con gas grande Fonter,1.14
+Carne,3497,"Arreglo para puchero vacuno, cerdo y pollo",6.5
+Carne,3556,Arreglo para arroz al horno,7.9
+Carne,52782,Pelota para cocido de cerdo,7.25
+Carne,2692,Trozo de vacuno para cocido,15.1
+Carne,53011,Compango,10.4
+Carne,58307,Hueso garrón,4
+Carne,2690,Osobuco de cerdo,8.2
+Carne,2689,Espinazo de cerdo,6
+Carne,88180,Arreglo para paella con pollo y conejo,7.3
+Carne,2854,Gallina,5.8
+Carne,2851,Manos de cerdo,7.1
+Carne,3499,Costilla de vacuno,15.3
+Carne,35805,Tocino de cerdo,6.8
+Carne,59154,Chorizo asturiano,11.2
+Carne,1892,Hueso blanco de cerdo salado,5.4
+Carne,2635,Rabo de cerdo,7
+Carne,86330,Hueso vacuno,6.2
+Carne,2794,Filetes pechuga de pavo,8.45
+Carne,4523,Chuletas de pavo contramuslo,7.15
+Carne,12874,Tacos de pavo,7.6
+Carne,9995,Solomillo de pavo,8
+Carne,4109,Filetes de pavo contramuslo,8.2
+Carne,35396,Foie gras de pato fresco,85.186
+Carne,2796,Codornices,12
+Carne,25629,Magret de pato,24
+Carne,14031,Filetes pechuga de pavo extra tiernos,9
+Carne,3400,Filetes pechuga de pollo corte fino,8.2
+Carne,2787,Filetes pechuga de pollo,7.3
+Carne,2789,Contramuslos de pollo deshuesados y sin piel,6.5
+Carne,2786,Solomillos de pollo,8
+Carne,3682,Pechugas enteras familiar de pollo,6.2
+Carne,3724,Pechugas enteras de pollo,6.65
+Carne,3680,Cuartos traseros familiar de pollo,3.1
+Carne,3727,Cuartos traseros de pollo,3.3
+Carne,35902,"Brochetas de pollo, pimiento verde y tocino de cerdo con varilla",8.4
+Carne,2788,Muslos de pollo deshuesados con piel,5.55
+Carne,2779,Medio pollo troceado,4
+Carne,2778,Jamoncitos de pollo,3.5
+Carne,2785,Alas partidas de pollo,5.2
+Carne,2853,Carcasa y espinazo de pollo,1.1
+Carne,21227,Filetes pechuga de pollo marinadas empanadas sin gluten,8.3
+Carne,2833,Filetes pechuga de pollo finas hierbas marinadas,7.8
+Carne,2791,Filetes pechuga de pollo certificado alimentado con un 50% de maíz,9.6
+Carne,2137,Flautas de pollo y queso,7.858
+Carne,2781,Pollo entero,3.5
+Carne,2857,Hígados y corazones de pollo,4
+Carne,2783,Cuartos traseros de pollo certificado alimentado con un 50% de maíz,5
+Carne,2784,Alas de pollo,4.45
+Carne,2832,Alas de pollo adobadas,5.6
+Carne,2777,Contramuslos de pollo sin piel,4.2
+Carne,2855,Carcasa de pollo certificado alimentado con un 50% de maíz,2.7
+Carne,25461,Jamoncitos de pollo certificado alimentado con un 50% de maíz,5.1
+Carne,2782,Pollo certificado entero alimentado con un 50% de maíz,5
+Carne,3791,Alas partidas de pollo certificado alimentado con un 50% de maíz,6.3
+Carne,2856,Mollejas de pollo,5.35
+Carne,4270,Sangre hervida de pollo,4.4
+Carne,25243,Patas de pollo,4.6
+Carne,4267,Pollo abierto churrasco,4.4
+Carne,3653,Filetes pechuga de pollo extra tiernos,8
+Carne,2830,Solomillos de pollo certificado alimentado con un 50% de maíz,11
+Carne,21235,Lagrimitas de pollo al limón empanadas sin gluten,8.4
+Carne,52514,Filetes solomillos de pollo marinados empanados sin gluten,8.8
+Carne,8970,Alas de pollo adobadas picantes,6.4
+Carne,3456,Pinchos de pollo sin varilla adobados,8.6
+Carne,8252,Pincho Mexicano de pollo con varilla,10.3
+Carne,8958,Pollo adobado y verduras,6.9
+Carne,25258,Contramuslos deshuesados y sin piel de pollo certificado alimentado con un 50% de maíz,9
+Carne,11687,Empanados de pollo picantes sin gluten,8.612
+Carne,15178,Filetes de pechuga de pollo adobada,10.5
+Carne,25183,Jamoncitos de pollo congelados,3.3
+Carne,25184,Alas de pollo congeladas,3.6
+Carne,4176,Medallones preparado de solomillo cerdo congelados marinados,10.36
+Carne,25353,Solomillo de pavo marinado congelado,7.8
+Carne,25182,Cuartos traseros de pollo congelados,2.95
+Carne,2228,Solomillo de cerdo marinado congelado,7.8
+Carne,25089,Yemas de gallina congeladas,11
+Carne,4072,Paletilla de lechal entera congelada,27
+Carne,5270,Paletilla de cochinillo congelada,9.5
+Carne,2120,Medio cochinillo congelado,13.5
+Carne,4334,Chuletas cordero de lechal congeladas,28
+Carne,4425,Carrillada de cerdo congelada,12.5
+Carne,21101,Carrillada de vacuno congelado,17.5
+Carne,30006,Pechugas de pollo enteras congeladas,6.2
+Carne,52426,Alas de pollo barbacoa congeladas,4.934
+Carne,2811,Costillas de cerdo carnosas a tacos,8
+Carne,2714,Filetes lomo de cerdo,6.9
+Carne,3395,Filetes lomo de cerdo familiar,6.8
+Carne,2810,Carrillada de cerdo,13.1
+Carne,1564,Costilla de cerdo ibérico adobada,7.55
+Carne,23305,Chuletas de cerdo sajonia,9.4
+Carne,35286,Costilla de cerdo churrasco,5.7
+Carne,2815,Panceta de cerdo,5.5
+Carne,2813,Cerdo a tacos,5.75
+Carne,2715,Filetes lomo de cerdo adobado,7.2
+Carne,5046,Filetes lomo de cerdo adobado familiar,6.95
+Carne,52957,San Jacobos de cerdo sin gluten,6.6
+Carne,2817,Filetes lomo de cerdo cabeza,6.7
+Carne,2169,Flautas de bacón y queso,7.858
+Carne,2685,Secreto de cerdo,6.2
+Carne,2812,Media careta de cerdo sin oreja,6.6
+Carne,23308,Fiambre de magro de cerdo adobado,7.568
+Carne,2859,Filetes hígado de cerdo,6.2
+Carne,3553,Filetes lomo de cerdo grueso,8
+Carne,4915,Presa de cerdo ibérico,27
+Carne,4919,Secreto de cerdo ibérico,25
+Carne,4152,Medallones preparado de solomillo cerdo provenzal,11.1
+Carne,2839,Pinchos de cerdo adobado sin varilla,8.1
+Carne,4901,Chuletas lomo de cerdo,6.45
+Carne,4900,Chuletas aguja de cerdo,5.6
+Carne,4918,Filetes lomo de cerdo ibérico,23.4
+Carne,4570,Solomillo de cerdo,8.2
+Carne,8994,Panceta fina sin corteza corte fino,6.3
+Carne,52784,Codillo de cerdo,6
+Carne,2849,Filetes lomo de cerdo extra tiernos,7.58
+Carne,4590,Lomo de cerdo trozo,5.2
+Carne,3554,Pieza cabeza lomo de cerdo,4.9
+Carne,14943,Taquitos de cerdo,5.3
+Carne,14968,Manteca de cerdo Hacendado,10
+Carne,21554,Carrilladas de cerdo al vino,13
+Carne,25972,Medio conejo troceado,9.6
+Carne,2797,Conejo entero,8.8
+Carne,25191,Paletillas de conejo,19.9
+Carne,4363,Chuletas de cordero palo y riñonada,31
+Carne,2860,Filetes hígado de cordero,13
+Carne,4361,Garretas brazuelo de cordero,16.95
+Carne,9963,Cordero chuleteado,25
+Carne,8839,Burger de cordero al romero,15.417
+Carne,6040,Longaniza magro fresca,6
+Carne,6043,Longaniza fresca sin tripa,5.893
+Carne,6041,Longaniza fresca de pollo,7.5
+Carne,35049,Morcilla de cebolla oreada,6.8
+Carne,1393,Botifarrón de carne,7.5
+Carne,6048,Chorizo oreado,7.15
+Carne,2864,Chistorra,6.819
+Carne,6042,Longaniza roja fresca,7.5
+Carne,6045,Longaniza fresca estilo criollo,8.8
+Carne,6044,Butifarra fresca,5.65
+Carne,35197,Embutido surtido oreado,7.75
+Carne,2876,Morcilla de arroz y cebolla,5.45
+Carne,2852,Embutido blanco,7.3
+Carne,6047,Chorizo picante aperitivo,8.65
+Carne,52672,Burger de cerdo,5
+Carne,2872,Burger de vacuno y cerdo,8.334
+Carne,2873,Burger de vacuno,11.482
+Carne,2622,Burger de pollo,7.315
+Carne,86911,Burger de pollo gruesa,8.889
+Carne,3547,Burger de vacuno gruesas,14.167
+Carne,4155,Burger de vacuno y cerdo con jamón y cebolla caramelizada,11.667
+Carne,3976,Burger de pavo y espinacas,10
+Carne,10467,Mini burgers de pollo,10.358
+Carne,10453,Mini burgers de vacuno y cerdo,11.072
+Carne,3979,Burger americana gruesas,8.889
+Carne,4079,Burger Crunchy Chicken,8.334
+Carne,35884,Hamburguesa de lomo de vacuno,17.917
+Carne,8840,Burger de vaca madurada,16.112
+Carne,2869,Preparado de carne picada vacuno y cerdo,8.6
+Carne,3453,Preparado de carne picada vacuno y cerdo,8.4
+Carne,2867,Preparado de carne picada cerdo,5.5
+Carne,3451,Preparado de carne picada cerdo,5.3
+Carne,2868,Preparado de carne picada vacuno,11
+Carne,3454,Preparado de carne picada vacuno,10.8
+Carne,35774,Preparado de carne picada pollo,7.9
+Carne,2871,Albóndigas de cerdo,5.417
+Carne,23632,Albóndigas de pollo,7.143
+Carne,52776,Preparado de carne picada vacuno,14
+Carne,2632,Carpaccio de vacuno,37.273
+Carne,2861,Filetes hígado de vacuno,10.4
+Carne,12746,Tacos de vacuno marinado para guisar,16.2
+Carne,60633,Filetes de vacuno marinado extra tiernos,17.7
+Carne,8308,Steak Tartar de vacuno marinado,27
+Carne,8932,Entrecot de vacuno añojo,26.5
+Carne,8934,Lomo de vacuno añojo,23.5
+Carne,8931,Solomillo de vacuno,41.4
+Carne,8936,Filetes de vacuno añojo para plancha,19
+Carne,8937,Escalopín de vacuno añojo para plancha,18.5
+Carne,14485,Churrasquito de vacuno añojo,21.5
+Carne,63323,Nuggets de pollo Hacendado ultracongelados,5.4
+Carne,63322,Delicias de pollo Hacendado ultracongeladas,7.4
+Carne,13496,Croquetas de cocido Hacendado ultracongeladas,5.715
+Carne,63007,Nuggets de pavo Hacendado ultracongelados,8.5
+Carne,60306,Pollo marinado rebozado Crispy American Style Hacendado ultracongelado,9.8
+Carne,2179,Callos preparados de ternera Rogusa,8.2
+Carne,2185,Oreja de cerdo cocida adobada Rogusa,9.2
+Carne,52810,Cachopo de vacuno con jamón y queso sin gluten,17.7
+Carne,14266,Lomo de cerdo marinado empanado sin gluten,10
+Carne,21565,Pollo Koreano con salsa,9
+Carne congelada,25183,Jamoncitos de pollo congelados,3.3
+Carne congelada,25184,Alas de pollo congeladas,3.6
+Carne congelada,25353,Solomillo de pavo marinado congelado,7.8
+Carne congelada,25182,Cuartos traseros de pollo congelados,2.95
+Carne congelada,2228,Solomillo de cerdo marinado congelado,7.8
+Carne congelada,25089,Yemas de gallina congeladas,11
+Carne congelada,4072,Paletilla de lechal entera congelada,27
+Carne congelada,2120,Medio cochinillo congelado,13.5
+Carne congelada,5270,Paletilla de cochinillo congelada,9.5
+Carne congelada,4334,Chuletas cordero de lechal congeladas,28
+Carne congelada,21101,Carrillada de vacuno congelado,17.5
+Carne congelada,30006,Pechugas de pollo enteras congeladas,6.2
+Carne congelada,52426,Alas de pollo barbacoa congeladas,4.934
+Carne congelada,4425,Carrillada de cerdo congelada,12.5
+Carne congelada,63323,Nuggets de pollo Hacendado ultracongelados,5.4
+Carne congelada,63322,Delicias de pollo Hacendado ultracongeladas,7.4
+Carne congelada,63007,Nuggets de pavo Hacendado ultracongelados,8.5
+Carne congelada,60306,Pollo marinado rebozado Crispy American Style Hacendado ultracongelado,9.8
+Frutas y verduras congeladas,61089,Mix frutos rojos Hacendado ultracongeladas,6.334
+Frutas y verduras congeladas,61092,Fresas enteras Hacendado ultracongeladas,6.334
+Frutas y verduras congeladas,61093,Arándanos enteros Hacendado ultracongelados,7.167
+Frutas y verduras congeladas,86403,Mix frutas tropical Hacendado ultracongeladas,6.112
+Frutas y verduras congeladas,14301,Dúo frutas fresa y plátano Hacendado congeladas,6.112
+Frutas y verduras congeladas,61125,Verdura para paella Hacendado ultracongelada,2.112
+Frutas y verduras congeladas,61101,Ensaladilla Hacendado ultracongelada,1.36
+Frutas y verduras congeladas,61272,Garbanzo Hacendado ultracongelado,3.023
+Frutas y verduras congeladas,61200,Guisante muy tierno Hacendado ultracongelado,3.5
+Frutas y verduras congeladas,61215,Guisante fino Hacendado ultracongelado,1.65
+Frutas y verduras congeladas,61283,Judía verde plana Hacendado ultracongelada,1.6
+Frutas y verduras congeladas,13568,Cebolla troceada Hacendado ultracongelada,2.312
+Frutas y verduras congeladas,61282,Judía verde redonda Hacendado ultracongelada,1.6
+Frutas y verduras congeladas,14300,Judía verde redonda para sartén y microondas Hacendado ultracongelada,3.667
+Frutas y verduras congeladas,61288,Ajo tierno Hacendado ultracongelado,6.834
+Frutas y verduras congeladas,13865,Alcachofa troceada Hacendado ultracongelada,6.625
+Frutas y verduras congeladas,61279,Espinaca en porciones Hacendado ultracongelada,2.223
+Frutas y verduras congeladas,35781,Espinaca picada en porciones Hacendado ultracongelada,2.6
+Frutas y verduras congeladas,52534,Menestra de verduras Hacendado ultracongelada,1.83
+Frutas y verduras congeladas,61285,Habitas muy tiernas Hacendado ultracongeladas,9.734
+Frutas y verduras congeladas,61233,Habas fina Hacendado ultracongelada,2.645
+Frutas y verduras congeladas,61252,Habas baby Hacendado ultracongelada,3.867
+Frutas y verduras congeladas,61025,Salteado de setas Hacendado ultracongeladas,3.578
+Frutas y verduras congeladas,35221,Pimiento rojo y verde Hacendado ultracongelado,2.889
+Frutas y verduras congeladas,61027,Salteado de verduras asadas Hacendado ultracongeladas,4.25
+Frutas y verduras congeladas,61034,Parrillada de verduras Hacendado ultracongeladas,3.875
+Frutas y verduras congeladas,61289,Maíz dulce Hacendado ultracongelado,3.1
+Frutas y verduras congeladas,61238,Espárrago verde troceado Hacendado ultracongelado,8.334
+Frutas y verduras congeladas,61261,Brócoli Hacendado ultracongelado,2.1
+Carne congelada,13404,Salteado de pollo Hacendado ultracongelado,4.889
+Frutas y verduras congeladas,61206,Cardo Hacendado ultracongelado,3.667
+Frutas y verduras congeladas,61053,Salteado de patata y salchicha Hacendado ultracongelado,4.445
+Frutas y verduras congeladas,61251,Ajo troceado Hacendado ultracongelado,6.934
+Frutas y verduras congeladas,61205,Alcachofa baby Hacendado ultracongelada,10.167
+Frutas y verduras congeladas,61300,Tempura de verduras Hacendado ultracongelada,6.75
+Frutas y verduras congeladas,35653,Pisto de verduras Hacendado ultracongelado,4.667
+Frutas y verduras congeladas,61006,"Coliflor, brócoli y zanahoria Hacendado ultracongelada",2
+Frutas y verduras congeladas,61248,Coles de Bruselas Hacendado ultracongeladas,3.667
+Frutas y verduras congeladas,61231,Coliflor Hacendado ultracongelada,2.13
+Frutas y verduras congeladas,70740,Edamame soja verde Hacendado ultracongelada,3.46
+Frutas y verduras congeladas,69383,Wakame ensalada de alga marina Hacendado congelada,13.6
+Frutas y verduras congeladas,61368,Espinacas a la crema Hacendado ultracongeladas,4.889
+Frutas y verduras congeladas,61065,Salteado de verduras Hacendado ultracongelado,2.417
+Frutas y verduras congeladas,35773,Migas de coliflor Hacendado ultracongeladas,3.445
+Frutas y verduras congeladas,61421,Patatas prefritas corte fino Hacendado ultracongeladas,1.93
+Frutas y verduras congeladas,61405,Patatas prefritas corte grueso Hacendado ultracongeladas,1.55
+Frutas y verduras congeladas,61416,Patatas prefritas gajo Hacendado ultracongeladas,2.4
+Frutas y verduras congeladas,7879,Patatas fritas horno y air fryer Hacendado ultracongeladas,2.8
+Frutas y verduras congeladas,15287,Bastones de batata Hacendado ultracongelada,3.534
+Frutas y verduras congeladas,15286,Patatas prefritas Waffle con piel Hacendado ultracongeladas,3.5
+Fruta y verdura,3819,Plátano de Canarias IGP,2.1
+Fruta y verdura,3824,Banana,1.55
+Fruta y verdura,3132,Plátano macho,2.9
+Fruta y verdura,3313,Uva blanca sin semillas,5.5
+Fruta y verdura,3321,Uva roja sin semillas,5.5
+Fruta y verdura,3028,Manzana Golden,2.2
+Fruta y verdura,3269,Manzanas Golden,2
+Fruta y verdura,3119,Pera Conferencia,2.45
+Fruta y verdura,14470,Peras Conferencia,2.15
+Fruta y verdura,8177,Manzana roja dulce,2.7
+Fruta y verdura,8280,Manzanas rojas dulces,2.4
+Fruta y verdura,3170,Pera Ercolina,2.9
+Fruta y verdura,3021,Manzana Granny Smith,2.4
+Fruta y verdura,8175,Manzana roja acidulce,2.4
+Fruta y verdura,8268,Manzanas rojas acidulces,2.1
+Fruta y verdura,30200,Medio melón piel de sapo,2.4
+Fruta y verdura,3506,Melón piel de sapo,2.1
+Fruta y verdura,3236,Limones,2.2
+Fruta y verdura,3210,Limón,2.5
+Fruta y verdura,3238,Mandarina,2.35
+Fruta y verdura,5504,Mandarina,1.95
+Fruta y verdura,3235,Naranja de mesa,1.95
+Fruta y verdura,3277,Naranjas,1.45
+Fruta y verdura,3485,Naranjas,1
+Fruta y verdura,3202,Pomelo,1.95
+Fruta y verdura,3897,Lima,4.15
+Fruta y verdura,3820,Kiwi verde,3.25
+Fruta y verdura,3832,Kiwis verdes,3.15
+Fruta y verdura,3830,Aguacate,5.2
+Fruta y verdura,3858,Aguacates,4.9
+Fruta y verdura,3076,Piña,2
+Fruta y verdura,30506,Media piña,3
+Fruta y verdura,3024,Piña natural a rodajas,6.55
+Fruta y verdura,3840,Guacamole Hacendado,7.9
+Fruta y verdura,3852,Guacamole Hacendado,9
+Fruta y verdura,3050,Mango,2.9
+Fruta y verdura,3026,Papaya,4.95
+Fruta y verdura,3715,Fresón,9.75
+Fruta y verdura,3716,Fresón,8.5
+Fruta y verdura,5500,Frambuesas,15.1
+Fruta y verdura,14379,Moras,18.7
+Fruta y verdura,5501,Arándanos,14.889
+Fruta y verdura,5507,Arándanos,13
+Fruta y verdura,68130,Lechuga Iceberg,1.05
+Fruta y verdura,69706,Ensalada mezcla 4 estaciones lavada,3.4
+Fruta y verdura,69121,Lechugas corazón romana,0.875
+Fruta y verdura,69757,Ensalada mezcla brotes tiernos lavada,12
+Fruta y verdura,69719,Canónigos lavados,9.6
+Fruta y verdura,69670,Lechuga iceberg cortada y lavada,3.8
+Fruta y verdura,69744,Ensalada mezcla gourmet lavada,6.286
+Fruta y verdura,69581,Cogollos de lechuga,0.35
+Fruta y verdura,69122,Lechuga corazón romana,1.1
+Fruta y verdura,69591,Endibias,4.223
+Fruta y verdura,69810,Ensalada mezcla brotes tiernos maxi lavada,9.429
+Fruta y verdura,69741,Ensalada mezcla gourmet maxi lavada,5.834
+Fruta y verdura,69840,Ensalada mezcla tierna lavada,9.334
+Fruta y verdura,69753,Rúcula lavada,17
+Fruta y verdura,69582,Cogollos corazón de lechuga,0.334
+Fruta y verdura,69697,Ensalada mezcla dúo canónigos y rúcula lavada,14.5
+Fruta y verdura,69114,Lechuga hoja roble,1.6
+Fruta y verdura,69720,Escarola rizada cortada y lavada,8.334
+Fruta y verdura,69984,Espinacas baby lavadas,11.5
+Fruta y verdura,69435,Lechuga romana cortada y lavada,5.75
+Fruta y verdura,69849,Ensalada César,12.381
+Fruta y verdura,69714,Ensalada California,13.542
+Fruta y verdura,69850,Wraps Texas,10.334
+Fruta y verdura,69756,Ensalada de la casa,5.375
+Fruta y verdura,69872,Ensalada ensatún,10.4
+Fruta y verdura,69461,Ensalada de pasta,10.4
+Fruta y verdura,69474,Ensalada queso de cabra,18.301
+Fruta y verdura,13241,Ensalada de pasta Listo para Comer,4
+Fruta y verdura,13240,"Ensalada de pollo, queso y frutos secos Listo para Comer",4
+Fruta y verdura,69066,Patata,1.9
+Fruta y verdura,69166,Patatas,1.55
+Fruta y verdura,69098,Patatas rojas,1.9
+Fruta y verdura,69099,Patatas,1.23
+Fruta y verdura,69386,Patatas guarnición,2.55
+Fruta y verdura,69239,Batata,2.35
+Fruta y verdura,69448,Patatas especial para freir,1.95
+Fruta y verdura,69173,Yuca,3.45
+Fruta y verdura,69139,Cebollas tiernas,0.567
+Fruta y verdura,69079,Cebollas,1.475
+Fruta y verdura,69089,Cebollas,1.7
+Fruta y verdura,69297,Ajos morados,7.4
+Fruta y verdura,69155,Cebollas dulces,2.5
+Fruta y verdura,69632,Ajo tierno,13
+Fruta y verdura,69162,Cebollas rojas,2.8
+Fruta y verdura,69695,Ajo negro dientes pelados,58.824
+Fruta y verdura,40475,Picada de ajo y perejil,15
+Fruta y verdura,69937,Tomate ensalada,2
+Fruta y verdura,69968,Tomate canario,2
+Fruta y verdura,69912,Tomate pera,2
+Fruta y verdura,69975,Tomates pera,2.1
+Fruta y verdura,69930,Tomates cherry pera kumato,5.334
+Fruta y verdura,69990,Tomates cherry,4
+Fruta y verdura,69414,Tomates cherry en rama Dulcita,12.5
+Fruta y verdura,69971,Tomates,1.9
+Fruta y verdura,69935,Tomate negro,2.7
+Fruta y verdura,69938,Tomate rallado,5
+Fruta y verdura,69487,Rama de Tomates,2.4
+Fruta y verdura,69444,Tomate rosa,3.4
+Fruta y verdura,69446,Tomates Anhel,6.3
+Fruta y verdura,69586,Zanahorias,1.15
+Fruta y verdura,69584,Pepino,2
+Fruta y verdura,69964,Pepino holandés,2.65
+Fruta y verdura,69669,Zanahorias,1.6
+Fruta y verdura,69877,Palitos de zanahoria,11.667
+Fruta y verdura,69722,Zanahoria rallada lavada,6.667
+Fruta y verdura,69310,Pimiento rojo,2.9
+Fruta y verdura,69338,Calabacín verde,2.45
+Fruta y verdura,69320,Pimiento verde freír,2.5
+Fruta y verdura,69339,Calabacín blanco,2.4
+Fruta y verdura,69312,Pimiento verde,2.8
+Fruta y verdura,69495,Pimientos tricolor,3.1
+Fruta y verdura,69590,Pimientos semipicantes,5.4
+Fruta y verdura,69220,Coliflor,2.05
+Fruta y verdura,69236,Repollo liso,1.8
+Fruta y verdura,68462,Repollo liso partido,2.15
+Fruta y verdura,68463,Medio repollo rizado,2.2
+Fruta y verdura,69379,Coles de bruselas,4.2
+Fruta y verdura,69519,Champiñones laminados limpios,6.6
+Fruta y verdura,69653,Setas,8.2
+Fruta y verdura,69664,Champiñones Portobello,7.2
+Fruta y verdura,69657,Mix de setas intenso,16
+Fruta y verdura,26951,Champiñones blancos,5
+Fruta y verdura,69701,Perejil troceado lavado,2.25
+Fruta y verdura,69289,Jengibre,8.05
+Fruta y verdura,69690,Cilantro,6.25
+Fruta y verdura,69287,Albahaca,7.75
+Fruta y verdura,68037,Hierbabuena,3.375
+Fruta y verdura,69286,Cebollino,9
+Fruta y verdura,69730,Espinacas cortadas y lavadas,4.334
+Fruta y verdura,69580,Brócoli,2.6
+Fruta y verdura,69326,Berenjena,2.5
+Fruta y verdura,69347,Berenjena rayada,2.3
+Fruta y verdura,69889,Judía verde plana,3.934
+Fruta y verdura,68131,Judía verde plana,4.858
+Fruta y verdura,69725,Acelgas cortadas y lavadas,4.5
+Fruta y verdura,69411,Puerros,2.8
+Fruta y verdura,68408,Puerros,4.8
+Fruta y verdura,69623,Alcachofa,3.5
+Fruta y verdura,69878,Judía verde redonda,5.6
+Fruta y verdura,3527,Calabaza cacahuete cortada a trozos,4.05
+Fruta y verdura,69275,Apio verde,2
+Fruta y verdura,69245,Apio cortado lavado,5.5
+Fruta y verdura,69387,Preparado de verdura para cocido,2.15
+Fruta y verdura,69656,Espárragos verdes finos,10.6
+Fruta y verdura,69117,Rabanitos,4.6
+Fruta y verdura,69523,Remolacha cocida y pelada,2.334
+Fruta y verdura,69698,Acelgas,2.688
+Fruta y verdura,69038,Nabicol,3.1
+Fruta y verdura,69469,Maíz dulce en mazorca cocido,3.445
+Fruta y verdura,69853,Media calabaza cacahuete,2.3
+Fruta y verdura,69643,Espárragos verdes gruesos,13
+Fruta y verdura,69585,Maíz dulce en mazorca,1.575
+Fruta y verdura,68853,Media calabaza para asar,2.6
+Fruta y verdura,69171,Verdura para crema de calabaza,5
+Fruta y verdura,69433,Preparado de verduras para sofreír cortado y lavado,6
+Fruta y verdura,26771,Sopa de verduras cortada y lavada,5.75
+Fruta y verdura,69423,Salteado de pimientos y cebolla cortado y lavado,6
+Fruta y verdura,69737,3 Vegetales para microondas lavados,6.167
+Fruta y verdura,69622,Floretas de brócoli para microondas lavadas,7.392
+Fruta y verdura,69484,Patatas para microondas,3.75
+Fruta y verdura,69465,Batatas para microondas,6.25
+Fruta y verdura,69392,Floretas de coliflor para microondas Hacendado,5.334
+Fruta y verdura,69463,Salteado de verduras para microondas cortado y lavado,6.25
